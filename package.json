@@ -1,0 +1,23 @@
+{
+  "name": "jsx-sample",
+  "version": "1.0.0",
+  "description": "JSX sample",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "akaneko3",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
+    "babelify": "^10.0.0",
+    "browserify": "^16.2.3",
+    "gulp": "^4.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
